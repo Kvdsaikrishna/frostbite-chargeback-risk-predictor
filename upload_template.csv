@@ -1,0 +1,4 @@
+transaction_id,customer_id,transaction_date,country,payment_method,product_category,amount_eur,first_time_buyer,account_age_days,prior_transactions
+NEW-001,C-NEW-01,2026-11-10,Italy,Card,In-game currency,189.99,True,2,0
+NEW-002,C-REP-02,2026-11-10,Germany,Digital wallet,Game licenses,49.99,False,420,12
+NEW-003,C-NEW-03,2026-11-10,Spain,Card,DLC,120.0,True,5,0
