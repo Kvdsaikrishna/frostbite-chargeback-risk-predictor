@@ -10,7 +10,7 @@ st.set_page_config(page_title="FrostBite | Chargeback Intelligence", page_icon="
                    layout="wide", initial_sidebar_state="expanded")
 
 ROOT = Path(__file__).parent
-DATA_PATH = ROOT / "data" / "transactions.csv"
+DATA_PATH = ROOT / "transactions.csv"
 
 st.markdown("""
 <style>
